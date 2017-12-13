@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LoadBalanceTest:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoadBalanceTest_war</output-path>
+    <root id="archive" name="LoadBalanceTest_war.war">
+      <element id="artifact" artifact-name="LoadBalanceTest:war exploded" />
+    </root>
+  </artifact>
+</component>
